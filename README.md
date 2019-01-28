@@ -1,0 +1,2 @@
+# LinkManager
+Sitecore Link Manager
