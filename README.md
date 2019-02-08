@@ -3,6 +3,7 @@
 This module extends the Link Manager to add a capability to set a Sitecore General Link Field(External Link) to trigger the Page Event, Goal, Campaign and Google Tag Manager simultaneously. 
 
 ## Getting Started
+
 Below are the steps to get up and running with the module.
 
 1. First Login to your Sitecore Instance.
@@ -36,11 +37,15 @@ Below are the steps to get up and running with the module.
 8. End
 
 ## Demonstration 
+
 + If you want to follow a step-by-step demo please see [Demo page](https://github.com/JairoSolutions/LinkManager/blob/master/Demo.md). 
+
 + This is assume that you have Sitecore Instance 9.1.0 (rev. 001564) and Habitat Demo Site(Habitat 1.7 Release) running on your local machine.
 
 ## Supports
+
 + For support please email the author or [create an issue](https://github.com/JairoSolutions/LinkManager/issues/new).
+
 + Tested on Sitecore Instance 9.1.0 (rev. 001564) with Habitat Demo Site(Habitat 1.7 Release. A Sitecore project implemented on the Sitecore Experience Platform using Helix Framework).
 
-THIS MODULE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT SUPPORT, WARRANTIES OR CONDITIONS OF ANY KIND.
+THIS MODULE IS PROVIDED ON AN **AS IS** BASIS, WITHOUT SUPPORT, WARRANTIES OR CONDITIONS OF ANY KIND.
