@@ -26,14 +26,14 @@
 
 ![image](https://user-images.githubusercontent.com/2329372/29325830-c23e4c86-821b-11e7-9d1b-486beee888f2.png)
 
-6. Inside Teasers folder are Teaser component which is using external link in their content.
+6. Inside Teasers folder are Teaser Item which is using external link in their content.
 Click **About Habitat(Sitecore Item)** in the Content panel right below **Quick Info** click **Content** and scroll down look for **Teaser Link** and on Teaser Link kindly click **Insert external link**.
 
 ![image](https://user-images.githubusercontent.com/2329372/29325901-07469a22-821c-11e7-9d69-1064416fe7da.png)
 
 ![image](https://user-images.githubusercontent.com/2329372/29325882-f0a51b40-821b-11e7-8d84-85a4fdbfc580.png)
 
-7. Inside **Insert External Link** dialog in the bottom part you can see we added Trigger Goal, Trigger Page Event, and Trigger Campaign and GTM(Google Tag Manager) using a CheckBox and also List of Goal, Page Event, Campaign and GTM using ComboBox.
+7. Inside **Insert External Link** dialog in the bottom part you can see we added Trigger Goal, Trigger Page Event, and Trigger Campaign and GTM(Google Tag Manager) using a CheckBox and also List of Goal, Page Event, Campaign using ComboBox and GTM using a ListBox.
 
 8. Goal: if you check ✔ the checkBox it will set **True** and if not, It will set **False**. If True you want to trigger the Goal; If False you don't want to trigger the goal. Goals are added to Combobox to create a list of Goal and it also uses a javascript that allows the user to **AutoComplete**.
 
@@ -59,11 +59,11 @@ Click **About Habitat(Sitecore Item)** in the Content panel right below **Quick 
 
 ![image](https://user-images.githubusercontent.com/2329372/29326104-d8b00a80-821c-11e7-8a43-4aa5e6390759.png)
 
-16. After Publishing you will see a dialog box that indicates the item you publish and since I just update 1 Item only.
+16. After Publishing you will see a dialog box that indicates the item you published and since I just update 1 Item only.
 
 ![image](https://user-images.githubusercontent.com/2329372/29326135-f9731ad2-821c-11e7-8167-bf1d22a6f556.png)
 
-17. After Successfully publishing your changes. To your Instance web http://habitat.sc/ and in this Demo we are using Sitecore Habitat Demo Site. In the landing page, you can locate **About Habitat** below Sitecore Habitat Home Page in the footer section.
+17. After Successfully publishing your changes. Check your website example you have http://habitat.sc/. In this Demo we are using Sitecore Habitat Demo Site. In the landing page, you can locate **About Habitat** below Sitecore Habitat Home Page in the footer section.
 
 ![image](https://user-images.githubusercontent.com/2329372/29326266-6846902e-821d-11e7-94aa-8f4404400bdd.png)
 
