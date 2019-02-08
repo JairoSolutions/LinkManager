@@ -1,9 +1,9 @@
-# Demo
+# Demo Page
 
 ## Assumption
 + Install Sitecore Link Manager SC 9.1-v1.0.zip first, If you want to follow this demo. Please install Sitecore 9.1.0 (rev. 001564) and Sitecore Habitat Demo Site(Habitat 1.7 Release).
 
-Steps:
+## Getting Started
 
 1. Login to the Sitecore Client using your prefered browser.
 
