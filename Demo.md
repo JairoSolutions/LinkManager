@@ -101,6 +101,6 @@ Click **About Habitat(Sitecore Item)** in the Content panel right below **Quick 
 
 + For support please email the author or [create an issue](https://github.com/JairoSolutions/LinkManager/issues/new).
 
-+ Tested on Sitecore.NET 9.1.0 (rev. 001564) with Habitat Demo Site(Habitat 1.7 Release. A Sitecore project implemented on the Sitecore Experience Platform using Helix Framework).
++ Tested on Sitecore Instance 9.1.0 (rev. 001564) with Habitat Demo Site(Habitat 1.7 Release. A Sitecore project implemented on the Sitecore Experience Platform using Helix Framework).
 
 THIS MODULE IS PROVIDED ON AN **AS IS** BASIS, WITHOUT SUPPORT, WARRANTIES OR CONDITIONS OF ANY KIND.
