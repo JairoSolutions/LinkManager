@@ -1,4 +1,4 @@
-# Sitecore.SBOS.LinkManager (BETA) 
+# Sitecore Link Manager v2.0 (BETA) 
 
 This module extends the Link Manager to add a capability to set a Sitecore General Link Field(External Link) to trigger the Page Event, Goal, Campaign and Google Tag Manager simultaneously. 
 
@@ -18,7 +18,7 @@ Below are the steps to get up and running with the module.
 
 ![image](https://user-images.githubusercontent.com/34522951/52002303-a0d23500-24fc-11e9-9319-4cad28ac0a8b.png)
 
-4. Click Upload Package and then Choose File and select Sitecore Link Manager SC 9.1-v1.0.zip and click next and lastly click Upload.
+4. Click Upload Package and then Choose File and select Sitecore Link Manager SC 9.1-v2.0.zip and click next and lastly click Upload.
 
 ![image](https://user-images.githubusercontent.com/34522951/52002333-af205100-24fc-11e9-8945-aa6ff36c02c9.png)
 
